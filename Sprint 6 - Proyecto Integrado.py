@@ -1,1 +1,1 @@
-#Sprint 6. Proyecto integrado 1
+#Sprint 6. Integrated project 1
