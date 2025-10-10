@@ -3,5 +3,11 @@ I work for an online store that sells video games worldwide. The project aims to
 
 #Sprint 6. Integrated project 1
 
-#Add the doc
+# Importar las librerías
+from scipy import stats as st
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+
+
 
