@@ -45,7 +45,9 @@ The analysis was carried out in the following steps:
    - Comparison of platform and genre performance across regions  
 
 
-## Key Insights
+## Key Visualizations
+
+![Global sales distribution by platform](Images/prediction_vs_actual.png)
 
 ### Platform Trends
 - Older platforms (pre-2000) tend to have longer life cycles.  
